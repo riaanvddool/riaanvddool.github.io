@@ -2,7 +2,7 @@
 title =  "Spacerace launch"
 date = 2018-01-15T10:40:58+02:00
 tags = []
-featured_image = "shuttle-sunrise.png"
+featured_image = "images/shuttle-sunrise.png"
 description = "First post"
 +++
 
