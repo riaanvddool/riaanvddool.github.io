@@ -6,10 +6,21 @@
     <description>Recent content on Spacerace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2018 10:40:58 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://www.spacerace.co.za/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Starman racing his Tesla in orbit</title>
+      <link>http://www.spacerace.co.za/posts/starman/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.spacerace.co.za/posts/starman/</guid>
+      <description>SpaceX launched the Falcon Heavy rocket for the first time and what a spectacular launch!
+Elon Musk&amp;rsquo;s Tesla Roadster is now racing through space in a highly elliptical orbit around the sun that will take it thorugh the asteroid belt.
+  </description>
+    </item>
     
     <item>
       <title>Spacerace launch</title>
